@@ -37,6 +37,7 @@ public class newbookdetails extends JFrame {
 					e.printStackTrace();
 				}
 			}
+			
 		});
 	}
 

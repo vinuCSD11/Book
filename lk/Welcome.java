@@ -50,6 +50,7 @@ public class Welcome extends JFrame {
 		});
 	}
 
+	
 	/**
 	 * Create the frame.
 	 */

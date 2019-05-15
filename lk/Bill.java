@@ -95,3 +95,4 @@ public class Bill extends JFrame {
 		textField.setColumns(10);
 	}
 }
+

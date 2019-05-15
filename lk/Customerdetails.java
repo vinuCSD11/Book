@@ -51,6 +51,7 @@ public class Customerdetails extends JFrame {
 	protected JLabel user_ID;
 	protected JLabel tp;
 
+	
 	/**
 	 * Launch the application.
 	 */

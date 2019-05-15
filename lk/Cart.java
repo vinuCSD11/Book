@@ -28,6 +28,7 @@ public class Cart extends JFrame {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
 				try {
+	
 					Cart frame = new Cart();
 					frame.setVisible(true);
 				} catch (Exception e) {

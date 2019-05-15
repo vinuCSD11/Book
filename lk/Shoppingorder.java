@@ -9,6 +9,7 @@
 //
 //import net.proteanit.sql.DbUtils;
 //
+
 //import javax.swing.JLabel;
 //import java.awt.Font;
 //import javax.swing.JTextField;
@@ -26,6 +27,7 @@
 //import javax.swing.DefaultComboBoxModel;
 //
 //public class Shoppingorder extends JFrame {
+
 //
 //	private JPanel contentPane;
 //	private JTable table;

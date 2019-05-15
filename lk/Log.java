@@ -23,6 +23,7 @@ import java .sql.*;
 import java.awt.Color;
 import java.awt.Font;
 
+
 public class Log extends JFrame {
 
 	protected static final JLabel Uid = null;
@@ -51,6 +52,7 @@ public class Log extends JFrame {
 					e.printStackTrace();
 				}
 			}
+			
 		});
 	}
 

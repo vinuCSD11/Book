@@ -246,9 +246,11 @@ public class Purchase extends JFrame {
 		
 		
 		}
+	
 
 		
 		}
+
 
 	
 

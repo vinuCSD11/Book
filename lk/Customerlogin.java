@@ -42,6 +42,7 @@ public class Customerlogin extends JFrame {
 		});
 	}
 
+	
 	/**
 	 * Create the frame.
 	 */
